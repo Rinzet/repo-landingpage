@@ -36,6 +36,7 @@ nav ul {
   display: flex;
   gap: 15px;
   list-style: none;
+  align-items: center;
 }
 nav a {
   color: white;

@@ -41,6 +41,15 @@ nav a {
   color: white;
   text-decoration: none;
 }
+#lang-btn {
+  background: #fff;
+  color: #000;
+  border: none;
+  padding: 6px 12px;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 4px;
+}
 
 /* Hero section */
 .hero {
@@ -49,7 +58,7 @@ nav a {
   padding: 80px 20px;
   text-align: center;
 }
-.ph {
+#hero-text {
     margin-bottom: 20px;
 }
 .hero .btn {
